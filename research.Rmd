@@ -1,6 +1,5 @@
 ---
-title: "Alexander H. von Hafften"
-subtitle: "Research"
+title: "Alexander H. von Hafften - Research"
 ---
 
 #### Working Papers

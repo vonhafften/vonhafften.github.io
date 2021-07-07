@@ -1,6 +1,5 @@
 ---
-title: "Alexander H. von Hafften"
-subtitle: "Teaching"
+title: "Alexander H. von Hafften - Teaching"
 ---
 
 ```{r setup, echo = FALSE}

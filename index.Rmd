@@ -7,14 +7,10 @@ subtitle: "Ph.D. Student in Economics and Finance at UW-Madison"
 library(knitr)
 ```
 
-:::: {style="display: grid; grid-template-columns: 1fr 1fr; grid-column-gap: 10px;"}
+:::: {style="display: grid; grid-template-columns: 1fr 1fr 1fr; grid-column-gap: 10px;"}
+
 
 ::: {}
-
-
-```{r photo, echo = FALSE, out.width=500}
-include_graphics(path = "photo.jpeg")
-```
 
 [CV](https://vonhafften.github.io/cv.pdf)
 
@@ -43,6 +39,15 @@ include_graphics(path = "photo.jpeg")
 [Are Basel's Capital Surcharges for Global Systemically Important Banks Too Small?](https://www.ijcb.org/journal/ijcb19q1a3.htm) (International Journal of Central Banking, 2019) with Wayne Passmore
 
 The Basel Committee promulgates bank regulatory standards, including capital surcharges for global systemically important banks (G-SIBs). Our analysis suggests that the Basel III capital surcharge framework underestimates the probability of bank failure, wrongly disregards short-term funding, and excludes too many banks; our baseline estimate suggests surcharges should increase 3.00 to 8.25 percentage points and that even higher surcharges should apply to G-SIBs that rely on short-term funding. Our findings, which do not account for Basel III beyond the capital surcharges, may differ from the findings of a comprehensive analysis of Basel III. JEL Code: G01, G18, G21.
+
+:::
+
+::: {}
+
+
+```{r photo, echo = FALSE, out.width=500}
+include_graphics(path = "photo.jpeg")
+```
 
 :::
 
