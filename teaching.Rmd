@@ -6,6 +6,38 @@ title: "Alexander H. von Hafften - Teaching"
 library(knitr)
 ```
 
+:::: {style="display: grid; grid-template-columns: 1fr 3fr; grid-column-gap: 10px;"}
+
+
+::: {}
+
+---
+
+[CV](https://vonhafften.github.io/cv.pdf)
+
+[Research](https://vonhafften.github.io/research.html)
+
+[Teaching](https://vonhafften.github.io/teaching.html)
+
+---
+
+[LinkedIn](https://www.linkedin.com/in/alexander-h-von-hafften-9a48098b/)
+
+[GitHub](https://github.com/vonhafften)
+
+---
+
+[Safetrack](https://safetrack.bandcamp.com/)
+
+[When to workout?](https://vonhafften.github.io/when_to_workout.html)
+
+---
+
+:::
+
+::: {}
+
+
 ### Ph.D. Macroeconomics - ECON 712 and 714
 
 #### Unofficial Solutions for Past Exams and Prelims
@@ -15,3 +47,7 @@ library(knitr)
 - [Jason Choi](https://sites.google.com/site/jasonchoihj/teaching/prelim-2019?authuser=0)
 
 - [Eirik Eylands Brandsaas](https://sites.google.com/site/eirikbrandsaas/teaching/prelim2018)
+
+:::
+
+::::
