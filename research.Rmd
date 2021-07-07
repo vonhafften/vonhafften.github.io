@@ -11,11 +11,13 @@ subtitle: "Ph.D. Student in Economics and Finance at UW-Madison"
 
 ---
 
-[CV](https://vonhafften.github.io/cv.pdf)
+[Home](https://vonhafften.github.io/index.html)
 
 [Research](https://vonhafften.github.io/research.html)
 
 [Teaching](https://vonhafften.github.io/teaching.html)
+
+[CV](https://vonhafften.github.io/cv.pdf)
 
 ---
 
