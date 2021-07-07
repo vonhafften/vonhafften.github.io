@@ -1,13 +1,14 @@
 ---
 title: "Alexander H. von Hafften"
+subtitle: "Ph.D. Student in Economics and Finance at UW-Madison"
 ---
 
 ```{r setup, echo = FALSE}
 library(knitr)
 ```
 
-:::: {style="display: grid; grid-template-columns: 1fr 2fr 1fr; grid-column-gap: 10px;"}
 
+:::: {style="display: grid; grid-template-columns: 1fr 2fr 1fr; grid-column-gap: 10px;"}
 
 ::: {}
 
@@ -36,8 +37,6 @@ library(knitr)
 :::
 
 ::: {}
-
-### Ph.D. Student in Economics and Finance at UW-Madison
 
 #### Highlighted Research
 

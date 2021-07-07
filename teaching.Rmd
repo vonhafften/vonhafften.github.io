@@ -1,5 +1,6 @@
 ---
 title: "Alexander H. von Hafften - Teaching"
+subtitle: "Ph.D. Student in Economics and Finance at UW-Madison"
 ---
 
 ```{r setup, echo = FALSE}
