@@ -8,7 +8,7 @@ library(knitr)
 ```
 
 
-:::: {style="display: grid; grid-template-columns: 1fr 2fr 1fr; grid-column-gap: 10px;"}
+:::: {style="display: grid; grid-template-columns: 1fr 3fr 2fr; grid-column-gap: 10px;"}
 
 ::: {}
 

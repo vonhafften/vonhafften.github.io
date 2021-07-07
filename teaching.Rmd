@@ -7,7 +7,7 @@ subtitle: "Ph.D. Student in Economics and Finance at UW-Madison"
 library(knitr)
 ```
 
-:::: {style="display: grid; grid-template-columns: 1fr 3fr; grid-column-gap: 10px;"}
+:::: {style="display: grid; grid-template-columns: 1fr 5fr; grid-column-gap: 10px;"}
 
 
 ::: {}
@@ -39,9 +39,9 @@ library(knitr)
 ::: {}
 
 
-### Ph.D. Macroeconomics - ECON 712 and 714
+#### ECON 712 and 714 - Ph.D. Macroeconomic Theory
 
-#### Unofficial Solutions for Past Exams and Prelims
+##### Unofficial Solutions for Past Exams and Prelims
 
 - [Previous 714B Exam Questions](https://vonhafften.github.io/econ714b_pastexamquestions.html)
 
