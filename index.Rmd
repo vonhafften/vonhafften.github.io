@@ -2,6 +2,10 @@
 title: "Alexander H. von Hafften"
 ---
 
+:::: {style="display: flex;"}
+
+::: {}
+
 
 [CV](https://vonhafften.github.io/cv.pdf)
 
@@ -9,8 +13,24 @@ title: "Alexander H. von Hafften"
 
 [Teaching](https://vonhafften.github.io/teaching.html)
 
-[When to workout?](https://vonhafften.github.io/when_to_workout.html)
+---
 
 [LinkedIn](https://www.linkedin.com/in/alexander-h-von-hafften-9a48098b/)
 
 [GitHub](https://github.com/vonhafften)
+
+---
+
+[Safetrack](https://safetrack.bandcamp.com/)
+
+[When to workout?](https://vonhafften.github.io/when_to_workout.html)
+
+:::
+
+::: {}
+
+
+
+:::
+
+::::
