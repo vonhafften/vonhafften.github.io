@@ -3,7 +3,13 @@ title: "Alexander H. von Hafften"
 subtitle: "Research"
 ---
 
-[The Costs and Benefits of Bank Capital – A Review of the Literature](https://doi:10.3390/jrfm13040074)	- April 2020
+#### Working Papers
+
+...
+
+#### Publications
+
+[The Costs and Benefits of Bank Capital – A Review of the Literature](https://www.mdpi.com/1911-8074/13/4/74)	- April 2020
 
 Journal of Risk and Financial Management Vol. 13 (74) with Oliver de Bandt, Diana Hancock, Matías Gutiérrez Girault, Valerio Scalone, Hitoshi Mio, Tord Krogh, Michael Straghan, Arzu Uluc, Simon Firestone, Missaka Warusawitharana, Don Morgan, and Ajay Palvia
 
