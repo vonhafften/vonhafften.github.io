@@ -9,7 +9,7 @@ library(knitr)
 
 ### Ph.D. Macroeconomics - ECON 712 and 714
 
-#### Unofficial Past Macro Prelim Solutions
+#### Unofficial Solutions for Past Exams and Prelims
 
 - [Previous 714B Exam Questions](https://vonhafften.github.io/econ714b_pastexamquestions.html)
 
