@@ -7,5 +7,12 @@ subtitle: "Teaching"
 library(knitr)
 ```
 
+### Ph.D. Macroeconomics - ECON 712 and 714
 
-[Past 714B Exam Questions](https://vonhafften.github.io/econ714b_pastexamquestions.html)
+#### Unofficial Past Macro Prelim Solutions
+
+- [Previous 714B Exam Questions](https://vonhafften.github.io/econ714b_pastexamquestions.html)
+
+- [Jason Choi](https://sites.google.com/site/jasonchoihj/teaching/prelim-2019?authuser=0)
+
+- [Eirik Eylands Brandsaas](https://sites.google.com/site/eirikbrandsaas/teaching/prelim2018)
