@@ -1,0 +1,11 @@
+---
+title: "Alexander H. von Hafften"
+subtitle: "Teaching"
+---
+
+```{r setup, echo = FALSE}
+library(knitr)
+```
+
+
+[Past 714B Exam Questions](https://vonhafften.github.io/econ714b_pastexamquestions.html)
