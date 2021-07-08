@@ -1,40 +1,21 @@
 ---
 title: "Alexander H. von Hafften"
-subtitle: "Ph.D. Student in Economics and Finance at UW-Madison"
+subtitle: Ph.D. Student in Economics and Finance at UW-Madison
+output:
+  html_document:
+    df_print: paged
 ---
 
 ```{r setup, echo = FALSE}
 library(knitr)
 ```
 
-
 :::: {style="display: grid; grid-template-columns: 1fr 3fr 2fr; grid-column-gap: 10px;"}
 
 ::: {}
 
----
-
-[Home](https://vonhafften.github.io/index.html)
-
-[Research](https://vonhafften.github.io/research.html)
-
-[Teaching](https://vonhafften.github.io/teaching.html)
-
-[CV](https://vonhafften.github.io/cv.pdf)
-
----
-
-[LinkedIn](https://www.linkedin.com/in/alexander-h-von-hafften-9a48098b/)
-
-[GitHub](https://github.com/vonhafften)
-
----
-
-[Safetrack](https://safetrack.bandcamp.com/)
-
-[When to Workout?](https://vonhafften.github.io/when_to_workout.html)
-
----
+```{r child ='sidebar_nav.Rmd'}
+```
 
 :::
 
