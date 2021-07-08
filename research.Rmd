@@ -29,17 +29,13 @@ subtitle: "Ph.D. Student in Economics and Finance at UW-Madison"
 
 [Safetrack](https://safetrack.bandcamp.com/)
 
-[When to workout?](https://vonhafften.github.io/when_to_workout.html)
+[When to Workout?](https://vonhafften.github.io/when_to_workout.html)
 
 ---
 
 :::
 
 ::: {}
-
-#### Working Papers
-
-...
 
 #### Publications
 

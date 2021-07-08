@@ -32,7 +32,7 @@ library(knitr)
 
 [Safetrack](https://safetrack.bandcamp.com/)
 
-[When to workout?](https://vonhafften.github.io/when_to_workout.html)
+[When to Workout?](https://vonhafften.github.io/when_to_workout.html)
 
 ---
 
@@ -49,7 +49,7 @@ library(knitr)
 
 - [Jason Choi](https://sites.google.com/site/jasonchoihj/teaching/prelim-2019?authuser=0)
 
-- [Eirik Eylands Brandsaas](https://sites.google.com/site/eirikbrandsaas/teaching/prelim2018)
+- [Eirik Brandsaas](https://sites.google.com/site/eirikbrandsaas/teaching/prelim2018)
 
 :::
 
