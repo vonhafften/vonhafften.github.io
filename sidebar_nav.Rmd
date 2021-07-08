@@ -22,6 +22,6 @@
 
 [Adventures of Lorax](https://adventuresoflorax.wordpress.com/)
 
-[When to work out?](https://vonhafften.github.io/when_to_workout.html)
+[When to work out?](https://vonhafften.github.io/when_to_workout/app.html)
 
 ---
