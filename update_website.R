@@ -1,4 +1,4 @@
-setwd("/Documents/vonhafften.github.io/")
+setwd("/Users/alexandervonhafften/Documents/vonhafften.github.io/")
 
 library(rmarkdown)
 
