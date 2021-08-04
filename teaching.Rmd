@@ -22,6 +22,8 @@ library(knitr)
 
 #### ECON 712 and 714 - Ph.D. Macroeconomic Theory
 
+##### [Provide Anonymous Feedback](https://docs.google.com/forms/d/e/1FAIpQLScdgnV_sO9cnx_LMvYfFgdf5CzlJcD5e4ef-O6N_qokbX4dDQ/viewform)
+
 ##### Unofficial Solutions for Past Exams and Prelims
 
 - [Previous 714B Exam Questions](https://vonhafften.github.io/econ714b_pastexamquestions.html)
