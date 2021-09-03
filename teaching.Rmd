@@ -19,12 +19,49 @@ library(knitr)
 
 ::: {}
 
-
-#### ECON 712 and 714 - Ph.D. Macroeconomic Theory
-
 [Provide Anonymous Feedback](https://forms.gle/VwCe6dwtcH1CD1iC6)
 
-Unofficial Solutions for Past Exams and Prelims
+#### ECON 712A Macroeconomic Theory (Fall 2021)
+
+[Dean Corbae's Teaching Website](https://sites.google.com/a/wisc.edu/deancorbae/teaching)
+
+Discussion Section Handouts:
+
+- Handout 1
+
+- Handout 2
+
+- Handout 3
+
+- Handout 4
+
+- Handout 5
+
+- Handout 6
+
+- Handout 7
+
+Problem Sets:
+
+- Problem Set 1
+
+- Problem Set 2
+
+- Problem Set 3
+
+- Problem Set 4
+
+- Problem Set 5
+
+- Problem Set 6
+
+- Problem Set 7
+
+#### Macro Preliminary Exams
+
+[Past Prelim Questions](https://econ.wisc.edu/doctoral/preliminary-examinations/)
+
+Unofficial Solutions
 
 - [Previous 714B Exam Questions](https://vonhafften.github.io/econ714b_pastexamquestions.html)
 
