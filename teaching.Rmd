@@ -27,7 +27,7 @@ library(knitr)
 
 Discussion Section Handouts:
 
-- Handout 1
+- [Handout 1](https://vonhafften.github.io/handout_1.pdf)
 
 - Handout 2
 
