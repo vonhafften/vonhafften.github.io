@@ -23,11 +23,9 @@ library(knitr)
 
 #### ECON 712A Macroeconomic Theory (Fall 2021)
 
-Professor: Dean Corbae
+Professor: [Dean Corbae](https://sites.google.com/a/wisc.edu/deancorbae/teaching)
 
 Teaching Assistants: Duong Dang and Alex von Hafften
-
-[Dean Corbae's Teaching Website](https://sites.google.com/a/wisc.edu/deancorbae/teaching)
 
 <!-- [Duong Dang's Website] -->
 
