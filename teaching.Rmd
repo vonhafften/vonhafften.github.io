@@ -23,11 +23,17 @@ library(knitr)
 
 #### ECON 712A Macroeconomic Theory (Fall 2021)
 
+Professor: Dean Corbae
+
+Teaching Assistants: Duong Dang and Alex von Hafften
+
 [Dean Corbae's Teaching Website](https://sites.google.com/a/wisc.edu/deancorbae/teaching)
+
+<!-- [Duong Dang's Website] -->
 
 Discussion Section Handouts:
 
-- [Handout 1](https://vonhafften.github.io/handout_1.pdf) - Solutions
+- [Handout 1](https://vonhafften.github.io/teaching/econ_712a_2021/handout_1.pdf) - Solutions
 
 - Handout 2 - Solutions
 
@@ -43,7 +49,7 @@ Discussion Section Handouts:
 
 Problem Sets:
 
-- Problem Set 1
+- [Problem Set 1](https://vonhafften.github.io/teaching/econ_712a_2021/PS1.pdf)
 
 - Problem Set 2
 
