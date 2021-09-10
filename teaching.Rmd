@@ -27,19 +27,19 @@ library(knitr)
 
 Discussion Section Handouts:
 
-- [Handout 1](https://vonhafften.github.io/handout_1.pdf)
+- [Handout 1](https://vonhafften.github.io/handout_1.pdf) - Solutions
 
-- Handout 2
+- Handout 2 - Solutions
 
-- Handout 3
+- Handout 3 - Solutions
 
-- Handout 4
+- Handout 4 - Solutions
 
-- Handout 5
+- Handout 5 - Solutions
 
-- Handout 6
+- Handout 6 - Solutions
 
-- Handout 7
+- Handout 7 - Solutions
 
 Problem Sets:
 
