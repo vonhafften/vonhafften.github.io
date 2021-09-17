@@ -31,7 +31,7 @@ Teaching Assistants: Duong Dang and Alex von Hafften
 
 Discussion Section Handouts:
 
-- [Handout 1](https://vonhafften.github.io/teaching/econ_712a_2021/handout_1.pdf) - Solutions
+- [Handout 1](https://vonhafften.github.io/teaching/econ_712a_2021/handout_1.pdf) - [Solutions](https://vonhafften.github.io/teaching/econ_712a_2021/handout_1_solutions.pdf)
 
 - Handout 2 - Solutions
 
@@ -49,7 +49,7 @@ Problem Sets:
 
 - [Problem Set 1](https://vonhafften.github.io/teaching/econ_712a_2021/PS1.pdf)
 
-- Problem Set 2
+- [Problem Set 2](https://vonhafften.github.io/teaching/econ_712a_2021/PS2.pdf) - [Matlab code for problem 1](https://vonhafften.github.io/teaching/econ_712a_2021/ps2_p1.m)
 
 - Problem Set 3
 
