@@ -37,9 +37,9 @@ Discussion Section Handouts:
 
 - [Handout 3](https://vonhafften.github.io/teaching/econ_712a_2021/handout_3.pdf) - [Solutions](https://vonhafften.github.io/teaching/econ_712a_2021/handout_3_solutions.pdf)
 
-- Handout 4 - Solutions
+- [Handout 4](https://vonhafften.github.io/teaching/econ_712a_2021/handout_4.pdf) - [Solutions](https://vonhafften.github.io/teaching/econ_712a_2021/handout_4_solutions.pdf)
 
-- Handout 5 - Solutions
+- [Handout 5](https://vonhafften.github.io/teaching/econ_712a_2021/handout_5.pdf) - [Solutions](https://vonhafften.github.io/teaching/econ_712a_2021/handout_5_solutions.pdf)
 
 - Handout 6 - Solutions
 
@@ -47,13 +47,13 @@ Discussion Section Handouts:
 
 Problem Sets:
 
-- [Problem Set 1](https://vonhafften.github.io/teaching/econ_712a_2021/PS1.pdf)
+- [Problem Set 1](https://vonhafften.github.io/teaching/econ_712a_2021/ps1.pdf)
 
-- [Problem Set 2](https://vonhafften.github.io/teaching/econ_712a_2021/PS2.pdf) - [Matlab code for problem 1](https://vonhafften.github.io/teaching/econ_712a_2021/ps2_p1.m)
+- [Problem Set 2](https://vonhafften.github.io/teaching/econ_712a_2021/ps2.pdf) - [Matlab code for problem 1](https://vonhafften.github.io/teaching/econ_712a_2021/ps2_p1.m)
 
-- [Problem Set 3](https://vonhafften.github.io/teaching/econ_712a_2021/PS3.pdf)
+- [Problem Set 3](https://vonhafften.github.io/teaching/econ_712a_2021/ps3.pdf)
 
-- Problem Set 4
+- [Problem Set 4](https://vonhafften.github.io/teaching/econ_712a_2021/ps4.pdf)
 
 - Problem Set 5
 
