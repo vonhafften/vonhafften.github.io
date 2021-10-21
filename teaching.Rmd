@@ -41,9 +41,11 @@ Discussion Section Handouts:
 
 - [Handout 5](https://vonhafften.github.io/teaching/econ_712a_2021/handout_5.pdf) - [Solutions](https://vonhafften.github.io/teaching/econ_712a_2021/handout_5_solutions.pdf)
 
-- Handout 6 - Solutions
+- [Handout 6](https://vonhafften.github.io/teaching/econ_712a_2021/handout_6.pdf) - [Solutions](https://vonhafften.github.io/teaching/econ_712a_2021/handout_6_solutions.pdf)
 
-- Handout 7 - Solutions
+- [Handout 7](https://vonhafften.github.io/teaching/econ_712a_2021/handout_7.pdf) - [Solutions](https://vonhafften.github.io/teaching/econ_712a_2021/handout_7_solutions.pdf)
+
+- Handout 8 - Solutions
 
 Problem Sets:
 
@@ -55,11 +57,9 @@ Problem Sets:
 
 - [Problem Set 4](https://vonhafften.github.io/teaching/econ_712a_2021/ps4.pdf)
 
-- Problem Set 5
+- [Problem Set 5](https://vonhafften.github.io/teaching/econ_712a_2021/ps5.pdf)
 
-- Problem Set 6
-
-- Problem Set 7
+- [Problem Set 6](https://vonhafften.github.io/teaching/econ_712a_2021/ps6.pdf)
 
 #### Macro Preliminary Exams
 
