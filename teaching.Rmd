@@ -54,7 +54,7 @@ Discussion Section Handouts:
 
 - [Handout 7](https://vonhafften.github.io/teaching/econ_712a_2021/handout_7.pdf) - [Solutions](https://vonhafften.github.io/teaching/econ_712a_2021/handout_7_solutions.pdf)
 
-- Handout 8 - Solutions
+- [Handout 8](https://vonhafften.github.io/teaching/econ_712a_2021/handout_8.pdf) - [Solutions](https://vonhafften.github.io/teaching/econ_712a_2021/handout_8_solutions.pdf)
 
 Problem Sets:
 
@@ -69,6 +69,8 @@ Problem Sets:
 - [Problem Set 5](https://vonhafften.github.io/teaching/econ_712a_2021/ps5.pdf)
 
 - [Problem Set 6](https://vonhafften.github.io/teaching/econ_712a_2021/ps6.pdf)
+
+- [Problem Set 7](https://vonhafften.github.io/teaching/econ_712a_2021/ps7.pdf)
 
 
 
