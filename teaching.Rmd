@@ -21,13 +21,22 @@ library(knitr)
 
 [Provide Anonymous Feedback](https://forms.gle/VwCe6dwtcH1CD1iC6)
 
+
+#### ECON 712B Macroeconomic Theory (Fall 2021)
+
+Professor: [Job Boerma](https://jobboerma.com/)
+
+Teaching Assistants: Duong Dang and Alex von Hafften
+
+Discussion Section Handouts:
+
+- [Handout 1](https://vonhafften.github.io/teaching/econ_712b_2021/handout_1.pdf)
+
 #### ECON 712A Macroeconomic Theory (Fall 2021)
 
 Professor: [Dean Corbae](https://sites.google.com/a/wisc.edu/deancorbae/teaching)
 
 Teaching Assistants: Duong Dang and Alex von Hafften
-
-<!-- [Duong Dang's Website] -->
 
 Discussion Section Handouts:
 
@@ -60,6 +69,8 @@ Problem Sets:
 - [Problem Set 5](https://vonhafften.github.io/teaching/econ_712a_2021/ps5.pdf)
 
 - [Problem Set 6](https://vonhafften.github.io/teaching/econ_712a_2021/ps6.pdf)
+
+
 
 #### Macro Preliminary Exams
 
