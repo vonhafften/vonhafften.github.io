@@ -1,0 +1,95 @@
+---
+title: "Alexander H. von Hafften - Teaching"
+subtitle: "Ph.D. Student in Economics and Finance at UW-Madison"
+---
+
+```{r setup, echo = FALSE}
+library(knitr)
+```
+
+:::: {style="display: grid; grid-template-columns: 1fr 5fr; grid-column-gap: 10px;"}
+
+
+::: {}
+
+```{r child ='sidebar_nav.Rmd'}
+```
+
+:::
+
+::: {}
+
+[Provide Anonymous Feedback](https://forms.gle/VwCe6dwtcH1CD1iC6)
+
+
+#### ECON 712B Macroeconomic Theory (Fall 2021)
+
+Professor: [Job Boerma](https://jobboerma.com/)
+
+Teaching Assistants: Duong Dang and Alex von Hafften
+
+Discussion Section Handouts:
+
+- [Handout 1](https://vonhafften.github.io/teaching/econ_712b_2021/handout_1.pdf)
+
+- [Handout 2](https://vonhafften.github.io/teaching/econ_712b_2021/handout_2.pdf)
+
+- [Handout 3](https://vonhafften.github.io/teaching/econ_712b_2021/handout_3.pdf)
+
+#### ECON 712A Macroeconomic Theory (Fall 2021)
+
+Professor: [Dean Corbae](https://sites.google.com/a/wisc.edu/deancorbae/teaching)
+
+Teaching Assistants: Duong Dang and Alex von Hafften
+
+Discussion Section Handouts:
+
+- [Handout 1](https://vonhafften.github.io/teaching/econ_712a_2021/handout_1.pdf) - [Solutions](https://vonhafften.github.io/teaching/econ_712a_2021/handout_1_solutions.pdf)
+
+- [Handout 2](https://vonhafften.github.io/teaching/econ_712a_2021/handout_2.pdf) - [Solutions](https://vonhafften.github.io/teaching/econ_712a_2021/handout_2_solutions.pdf)
+
+- [Handout 3](https://vonhafften.github.io/teaching/econ_712a_2021/handout_3.pdf) - [Solutions](https://vonhafften.github.io/teaching/econ_712a_2021/handout_3_solutions.pdf)
+
+- [Handout 4](https://vonhafften.github.io/teaching/econ_712a_2021/handout_4.pdf) - [Solutions](https://vonhafften.github.io/teaching/econ_712a_2021/handout_4_solutions.pdf)
+
+- [Handout 5](https://vonhafften.github.io/teaching/econ_712a_2021/handout_5.pdf) - [Solutions](https://vonhafften.github.io/teaching/econ_712a_2021/handout_5_solutions.pdf)
+
+- [Handout 6](https://vonhafften.github.io/teaching/econ_712a_2021/handout_6.pdf) - [Solutions](https://vonhafften.github.io/teaching/econ_712a_2021/handout_6_solutions.pdf)
+
+- [Handout 7](https://vonhafften.github.io/teaching/econ_712a_2021/handout_7.pdf) - [Solutions](https://vonhafften.github.io/teaching/econ_712a_2021/handout_7_solutions.pdf)
+
+- [Handout 8](https://vonhafften.github.io/teaching/econ_712a_2021/handout_8.pdf) - [Solutions](https://vonhafften.github.io/teaching/econ_712a_2021/handout_8_solutions.pdf)
+
+Problem Sets:
+
+- [Problem Set 1](https://vonhafften.github.io/teaching/econ_712a_2021/ps1.pdf)
+
+- [Problem Set 2](https://vonhafften.github.io/teaching/econ_712a_2021/ps2.pdf) - [Matlab code for problem 1](https://vonhafften.github.io/teaching/econ_712a_2021/ps2_p1.m)
+
+- [Problem Set 3](https://vonhafften.github.io/teaching/econ_712a_2021/ps3.pdf)
+
+- [Problem Set 4](https://vonhafften.github.io/teaching/econ_712a_2021/ps4.pdf)
+
+- [Problem Set 5](https://vonhafften.github.io/teaching/econ_712a_2021/ps5.pdf)
+
+- [Problem Set 6](https://vonhafften.github.io/teaching/econ_712a_2021/ps6.pdf)
+
+- [Problem Set 7](https://vonhafften.github.io/teaching/econ_712a_2021/ps7.pdf)
+
+
+
+#### Macro Preliminary Exams
+
+[Past Prelim Questions](https://econ.wisc.edu/doctoral/preliminary-examinations/)
+
+Unofficial Solutions
+
+- [Previous 714B Exam Questions](https://vonhafften.github.io/econ714b_pastexamquestions.html)
+
+- [Jason Choi](https://sites.google.com/site/jasonchoihj/teaching/prelim-2019?authuser=0)
+
+- [Eirik Brandsaas](https://sites.google.com/site/eirikbrandsaas/teaching/prelim2018)
+
+:::
+
+::::
