@@ -16,6 +16,10 @@ subtitle: "Ph.D. Student in Economics and Finance at UW-Madison"
 
 #### Publications
 
+[Are Incurred Loss Standards Countercyclical? A Case Study Using U.S. Bank Holding Company Data](https://www.mdpi.com/1911-8074/15/3/111) - February 2022
+
+Journal of Risk and Financial Management Vol. 15 (3) with Fang Du and Diana Hancock
+
 [The Costs and Benefits of Bank Capital – A Review of the Literature](https://www.mdpi.com/1911-8074/13/4/74)	- April 2020
 
 Journal of Risk and Financial Management Vol. 13 (74) with Oliver de Bandt, Diana Hancock, Matías Gutiérrez Girault, Valerio Scalone, Hitoshi Mio, Tord Krogh, Michael Straghan, Arzu Uluc, Simon Firestone, Missaka Warusawitharana, Don Morgan, and Ajay Palvia
