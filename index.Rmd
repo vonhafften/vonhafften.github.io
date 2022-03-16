@@ -23,13 +23,13 @@ library(knitr)
 
 #### Highlighted Research
 
-[Are Basel's Capital Surcharges for Global Systemically Important Banks Too Small?](https://www.ijcb.org/journal/ijcb19q1a3.htm) 
+[Are Incurred Loss Standards Countercyclical? A Case Study Using U.S. Bank Holding Company Data](https://www.mdpi.com/1911-8074/15/3/111) 
 
-International Journal of Central Banking (2019) with Wayne Passmore
+Journal of Risk and Financial Management (2022) with Fang Du and Diana Hancock
 
-The Basel Committee promulgates bank regulatory standards, including capital surcharges for global systemically important banks (G-SIBs). Our analysis suggests that the Basel III capital surcharge framework underestimates the probability of bank failure, wrongly disregards short-term funding, and excludes too many banks; our baseline estimate suggests surcharges should increase 3.00 to 8.25 percentage points and that even higher surcharges should apply to G-SIBs that rely on short-term funding. Our findings, which do not account for Basel III beyond the capital surcharges, may differ from the findings of a comprehensive analysis of Basel III. 
+After the 2008 global financial crisis, U.S. bank holding companies needing to cover larger-than-expected loan losses raised concerns that existing provision accounting may be procyclical. Most related studies have found evidence of procyclicality using either aggregate time-series data or “as-reported” panel data. We test the null hypothesis that provisions were a constant fraction of nonperforming loans across the economic cycle. We create a “forced” panel, which incorporates the entities acquired by each holding company in the quarters prior to their mergers. As in the related literature, we fail to reject the null hypothesis with “as-reported” data; however, we reject the null hypothesis with the “forced” panel. This finding suggests that holding companies built up provisions to some degree during the pre-crisis period to cover larger future losses. These actions reduced capital and likely depressed lending in the pre-crisis period; such countercyclical impacts are consistent with post-crisis macroprudential policies.
 
-JEL Code: G01, G18, G21.
+Keywords: banks; accounting; provisions; loan losses; procyclical
 
 :::
 
