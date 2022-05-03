@@ -84,7 +84,7 @@ Problem Sets:
 
 Unofficial Solutions
 
-- [Previous 714B Exam Questions](https://vonhafften.github.io/econ714b_pastexamquestions.html)
+- [Previous 714B Exam Questions](https://vonhafften.github.io/teaching/econ714b_pastexamquestions.html)
 
 - [Jason Choi](https://sites.google.com/site/jasonchoihj/teaching/prelim-2019?authuser=0)
 
