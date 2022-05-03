@@ -17,7 +17,7 @@ knitr::opts_chunk$set(echo = TRUE)
 library(tidyverse)
 ```
 
-[PDF version](https://vonhafften.github.io/econ714b_pastexamquestions.pdf)
+[PDF version](https://vonhafften.github.io/teaching/econ714b_pastexamquestions.pdf)
 
 ## Final 2021 - Question 1 - Ramsey with Two Types of Labor
 
