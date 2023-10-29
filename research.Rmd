@@ -16,7 +16,7 @@ subtitle: "Ph.D. Student in Economics and Finance at UW-Madison"
 
 #### Working Papers
 
-[Heterogeneous Firms, Emissions, and Optimal Carbon Taxes](https://github.com/vonhafften/vonhafften.github.io/blob/main/research/Nattinger_von_Hafften_Oct29.pdf) - October 2023 - with [Michael B. Nattinger](https://www.michaelnattinger.com)
+[Heterogeneous Firms, Emissions, and Optimal Carbon Taxes](https://vonhafften.github.io/research/Nattinger_von_Hafften_Oct29.pdf) - October 2023 - with [Michael B. Nattinger](https://www.michaelnattinger.com)
 
 
 #### Publications
