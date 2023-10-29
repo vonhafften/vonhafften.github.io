@@ -1,0 +1,56 @@
+---
+title: "Alexander H. von Hafften - Research"
+subtitle: "Ph.D. Student in Economics and Finance at UW-Madison"
+---
+
+:::: {style="display: grid; grid-template-columns: 1fr 5fr; grid-column-gap: 10px;"}
+
+::: {}
+
+```{r child ='sidebar_nav.Rmd'}
+```
+
+:::
+
+::: {}
+
+#### Working Papers
+
+[Heterogeneous Firms, Emissions, and Optimal Carbon Taxes](https://github.com/vonhafften/vonhafften.github.io/blob/main/research/Nattinger_von_Hafften_Oct29.pdf) - October 2023 - with [Michael B. Nattinger](https://www.michaelnattinger.com)
+
+
+#### Publications
+
+[Are Incurred Loss Standards Countercyclical? A Case Study Using U.S. Bank Holding Company Data](https://www.mdpi.com/1911-8074/15/3/111) - February 2022
+
+Journal of Risk and Financial Management Vol. 15 (3) with Fang Du and Diana Hancock
+
+[The Costs and Benefits of Bank Capital – A Review of the Literature](https://www.mdpi.com/1911-8074/13/4/74)	- April 2020
+
+Journal of Risk and Financial Management Vol. 13 (74) with Oliver de Bandt, Diana Hancock, Matías Gutiérrez Girault, Valerio Scalone, Hitoshi Mio, Tord Krogh, Michael Straghan, Arzu Uluc, Simon Firestone, Missaka Warusawitharana, Don Morgan, and Ajay Palvia
+
+[Financing Affordable and Sustainable Homeownership with Fixed-COFI Mortgages](https://doi.org/10.1016/j.regsciurbeco.2018.08.002) - January 2020
+
+Regional Science and Urban Economics Vol. 80 with Wayne Passmore
+
+- Presented at the American Real Estate and Urban Economics Association 2018 National Conference
+
+[Assessing Major Country Exposures of U.S. Banks Using 009a Data Reports: A Brexit Case Study](https://doi.org/10.17016/2380-7172.2469)	- November 2019
+
+Finance and Economics Discussion Series Notes
+
+[Are Basel's Capital Surcharges for Global Systemically Important Banks Too Small?](https://www.ijcb.org/journal/ijcb19q1a3.htm) - March 2019 
+
+International Journal of Central Banking with Wayne Passmore
+
+[Survey on the interaction of regulatory instruments: results and analysis](https://www.bis.org/bcbs/publ/wp35.htm) - March 2019
+
+Basel Committee Working Paper with Stefan Schmitz, Katharina Steiner, Clément Martin, Oana Toader, Tomoyoshi Teramura, Mahmut Kutlukaya, Doriana Ruffino, and Irina Barakova
+
+[GSE Guarantees, Financial Stability, and Home Equity Accumulation](https://www.newyorkfed.org/research/epr/2018/epr_2018_gse-guarantees_passmore.html)	- December 2018
+
+Federal Reserve Bank of New York Economic Policy Review with Wayne Passmore
+
+:::
+
+::::
