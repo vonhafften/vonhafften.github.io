@@ -23,7 +23,7 @@ library(knitr)
 
 #### Highlighted Research
 
-[Heterogeneous Firms, Emissions, and Optimal Carbon Taxes](https://vonhafften.github.io/research/Nattinger_von_Hafften_Oct29.pdf) - October 2023 - with [Michael B. Nattinger](https://www.michaelnattinger.com)
+[Heterogeneous Firms, Emissions, and Optimal Carbon Taxes](https://vonhafften.github.io/research/het_firm_carbon_taxes_Nattinger_von_Hafften.pdf) - October 2023 - with [Michael B. Nattinger](https://www.michaelnattinger.com)
 
 The climate-macro literature largely focuses on optimal policies to address climate feedback in a representative firm framework. Empirically, we show that the emission intensity of U.S. public firms features substantial and persistent heterogeneity. In the presence of this heterogeneity, we illustrate a novel \textit{composition effect} of the constrained Social Planner's allocation when firm exits are endogenous: the Planner exits firms with dirtier production technologies at a higher rate, making the distribution over production technologies itself greener. We extend this intuition from an illustrative model into a general-equilibrium heterogeneous-firm model, in which we characterize and solve the problem of the Planner. We derive socially optimal carbon taxes which implement the Planner's allocation in a decentralized environment, and compute the transition to the long-run equilibrium with and without these taxes.
 
