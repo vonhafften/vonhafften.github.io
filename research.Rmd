@@ -16,10 +16,10 @@ subtitle: "Ph.D. Student in Economics and Finance at UW-Madison"
 
 #### Working Papers
 
-[Heterogeneous Firms, Emissions, and Optimal Carbon Taxes](https://vonhafften.github.io/research/het_firm_carbon_taxes_Nattinger_von_Hafften.pdf) - October 2023 - with [Michael B. Nattinger](https://www.michaelnattinger.com)
+[The Composition Effect of the Socially Optimal Green Transition](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4665157) - October 2023 - with [Michael B. Nattinger](https://www.michaelnattinger.com)
 
 
-#### Publications
+#### Publications Prior to Graduate School
 
 [Are Incurred Loss Standards Countercyclical? A Case Study Using U.S. Bank Holding Company Data](https://www.mdpi.com/1911-8074/15/3/111) - February 2022
 
