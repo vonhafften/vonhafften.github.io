@@ -33,7 +33,7 @@ The climate-macro literature largely focuses on optimal policies to address clim
 
 
 ```{r photo, echo = FALSE, out.width=500}
-include_graphics(path = "photo.jpeg")
+include_graphics(path = "photo.jpg")
 ```
 
 :::
