@@ -16,7 +16,7 @@ subtitle: "Ph.D. Student in Economics and Finance at UW-Madison"
 
 #### Working Papers
 
-[The Composition Effect of the Socially Optimal Green Transition](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4665157) - August 2025 - with [Michael B. Nattinger](https://www.michaelnattinger.com) -  [Paper](https://github.com/vonhafften/vonhafften.github.io/blob/main/research/het_firm_carbon_tax/paper.pdf) [SED 2024 Slides](https://github.com/vonhafften/vonhafften.github.io/blob/main/research/het_firm_carbon_tax/slides_SED.pdf)
+[The Composition Effect of the Socially Optimal Green Transition](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4665157) - August 2025 - with [Michael B. Nattinger](https://www.michaelnattinger.com) -  [Paper](https://github.com/vonhafften/vonhafften.github.io/blob/main/research/het_firm_carbon_tax/paper.pdf)
 
 
 #### Publications Before Graduate School
