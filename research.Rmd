@@ -1,6 +1,6 @@
 ---
 title: "Alexander H. von Hafften - Research"
-subtitle: "Ph.D. Student in Economics and Finance at UW-Madison"
+subtitle: "Ph.D. Candidate in Economics and Finance at UW-Madison"
 ---
 
 :::: {style="display: grid; grid-template-columns: 1fr 5fr; grid-column-gap: 10px;"}
