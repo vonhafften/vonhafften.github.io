@@ -25,6 +25,14 @@ Secondary market capital prices are procyclical and volatile. This paper quantif
 
 We document that the heterogeneity of carbon emission intensity across U.S. public firms is substantial and persistent. Using a tractable heterogeneous-firm GE model, we show that heterogeneity in carbon dependence is quantitatively relevant for determining the socially optimal carbon tax. With heterogeneity in this dimension and endogenous entry and exit, the firm distribution becomes endogenously greener in terms of production technology in response to carbon taxes - a composition effect which is absent from models without this heterogeneity. Omitting this channel, the model-implied Pigouvian tax which implements the socially optimal allocation is 86 percent higher than when the composition effect is present, suggesting that integrated assessment models abstracting from this form of heterogeneity may recommend carbon taxes that are larger than optimal. Nevertheless, we find that the welfare consequences of implementing the too-large carbon taxes are much smaller than the consequences of ignoring climate change altogether.
 
+$$\\[0.25in]$$
+
+#### Works in Progress
+
+**Innovation-Driven Growth with Fiscal Policy and Financial Frictions**
+
+$$\\[0.25in]$$
+
 #### Publications Before Graduate School
 
 [Are Incurred Loss Standards Countercyclical? A Case Study Using U.S. Bank Holding Company Data](https://www.mdpi.com/1911-8074/15/3/111) - February 2022
